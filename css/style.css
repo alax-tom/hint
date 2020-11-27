@@ -1,0 +1,32 @@
+/* header image */
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 70vh;
+    border-radius: 0px;
+
+}
+
+
+.circle{
+    color:red;
+    font-size: 30px;
+}
+.icon{
+    font-size: 40px;
+}
+
+.hint{
+    height: 40px;
+    width: 30px;
+    
+
+}
+
+.custom a{
+    color: rgb(250, 77, 77);
+}
+.custom a:hover{
+    color: rgb(233, 61, 61);
+}
